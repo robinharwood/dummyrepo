@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Welcome to My Blog!"
 date: 2025-12-04 10:00:00 -0000
 categories: welcome

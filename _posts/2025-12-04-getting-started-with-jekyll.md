@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Getting Started with Jekyll"
 date: 2025-12-04 11:00:00 -0000
 categories: tutorial
